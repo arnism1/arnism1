@@ -1,6 +1,7 @@
 ### Hi there 👋 ✦
 
 ![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/4055?logoColor=white%26project=%26recentMS=604800000%26showProject=false)
+![](https://hit.yhype.me/github/profile?user_id=72249128)
 <!--
 **arnism1/arnism1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
