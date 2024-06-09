@@ -1,5 +1,5 @@
 ### Hi there 👋 ✦
-
+[![wakatime](https://wakatime.com/badge/user/a1beecb1-c327-4a8a-9f8a-ca58edd390ac.svg)](https://wakatime.com/@a1beecb1-c327-4a8a-9f8a-ca58edd390ac)
 <!--
 **arnism1/arnism1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
