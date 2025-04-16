@@ -1,6 +1,6 @@
 ### Hi there 👋 ✦
 Why are you stalking my profile? 🧐
-<figure><embed src="https://wakatime.com/share/@space/75f485b1-f0b2-4543-a299-3df3d08df807.svg"></embed></figure>
+<embed src="https://wakatime.com/share/@space/75f485b1-f0b2-4543-a299-3df3d08df807.svg"></embed>
 
 <!--
 **arnism1/arnism1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
