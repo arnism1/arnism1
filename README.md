@@ -1,13 +1,6 @@
 ### Hi there 👋 ✦
 Why are you stalking my profile? 🧐
-$.ajax({
-  type: 'GET',
-  url: 'https://wakatime.com/share/@space/2e7461b6-4776-467c-add3-9142ba5b3b14.json',
-  dataType: 'jsonp',
-  success: function(response) {
-    console.log(response.data);
-  },
-});
+
 <!--
 **arnism1/arnism1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
